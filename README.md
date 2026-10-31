@@ -4,7 +4,7 @@
 
 Project link: https://www.theodinproject.com/lessons/foundations-calculator
 
-Live preview: https://zunaid-hassan.github.io/odin-calculator/
+Live preview: https://zunaid-hassan.github.io/calculator-odin/
 
 ### Description
 
